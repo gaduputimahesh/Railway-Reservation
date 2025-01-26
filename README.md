@@ -63,5 +63,6 @@ Data is saved in a `data.pkl` file, which stores:
 
 ### Example:
 
-`![Uploading Screenshot (163).png…]()
+![Screenshot (163)](https://github.com/user-attachments/assets/571b2583-0856-429c-a9c0-8bcd4225083a)
+
 
