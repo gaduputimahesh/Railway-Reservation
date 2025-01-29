@@ -61,7 +61,7 @@ Data is saved in a `data.pkl` file, which stores:
 - **Users**: A dictionary containing all user profiles.
 - **Tickets**: A dictionary containing all booked tickets linked with PNR numbers.
 
-### Example:
+### Demo:
 
 ![Screenshot (163)](https://github.com/user-attachments/assets/571b2583-0856-429c-a9c0-8bcd4225083a)
 
